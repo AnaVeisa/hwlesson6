@@ -1,0 +1,21 @@
+.testClass {
+   
+    margin-bottom: 32px;
+    margin-top: 8px;
+    margin-left: 16px;
+    margin-right: 32px;
+    border-style: solid;
+    padding-left: 16px;
+    padding-right: 16px;
+    padding-top: 32px;
+    padding-bottom: 32px;
+    border: 1 px solid rgb(0, 0, 0)
+}
+
+.testInput:active {
+outline: 75px solid red;
+}
+.testClass:first-child {
+border-top: 75px;
+border-width: 250px solid black;
+}
